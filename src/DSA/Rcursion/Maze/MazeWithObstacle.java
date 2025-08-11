@@ -1,5 +1,4 @@
-package Rcursion;
-import java.util.*;
+package Rcursion.Maze;
 
 public class MazeWithObstacle {
     public static void main(String[] args){

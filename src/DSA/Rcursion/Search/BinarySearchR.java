@@ -1,4 +1,4 @@
-package Rcursion;
+package Rcursion.Search;
 
 public class BinarySearchR {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package Rcursion;
+package Rcursion.Search;
 
 public class LinearSearchR {
     public static void main(String[] args){

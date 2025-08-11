@@ -1,4 +1,4 @@
-package Rcursion;
+package Rcursion.Maze;
 import java.util.*;
 
 public class MazeWithDiagonal {

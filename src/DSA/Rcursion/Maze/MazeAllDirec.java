@@ -1,4 +1,4 @@
-package Rcursion;
+package Rcursion.Maze;
 
 public class MazeAllDirec {
     public static void main(String[] args){
